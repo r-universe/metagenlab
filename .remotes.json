@@ -1,5 +1,11 @@
 [
   {
+    "package": "miaTime",
+    "url": "https://github.com/microbiome/miaTime",
+    "via": ["miaViz"],
+    "from": "miaViz"
+  },
+  {
     "package": "microbiomeMarker",
     "url": "https://github.com/yiluheihei/microbiomeMarker",
     "via": ["zAMPExplorer"],

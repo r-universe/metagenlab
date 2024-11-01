@@ -17,6 +17,10 @@
 [submodule "mia"]
 	path = mia
 	url = https://github.com/microbiome/mia
+[submodule "miaTime"]
+	path = miaTime
+	url = https://github.com/microbiome/miaTime
+	registered = false
 [submodule "miaViz"]
 	path = miaViz
 	url = https://github.com/microbiome/miaViz
