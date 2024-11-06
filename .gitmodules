@@ -16,10 +16,7 @@
 	url = https://github.com/yiluheihei/microbiomeMarker
 [submodule "microbiomeutilities"]
 	path = microbiomeutilities
-	url = https://github.com/microsud/microbiomeutilities/tree/master
-[submodule "phyloseq.extended"]
-	path = phyloseq.extended
-	url = https://github.com/mahendra-mariadassou/phyloseq-extended
+	url = https://github.com/microsud/microbiomeutilities
 [submodule "zAMPExplorer"]
 	path = zAMPExplorer
 	url = https://github.com/metagenlab/zAMPExplorer
