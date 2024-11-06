@@ -2,11 +2,23 @@
 	path = .registry
 	url = https://github.com/metagenlab/metagenlab.r-universe.dev
 	branch = HEAD
+[submodule "MicEco"]
+	path = MicEco
+	url = https://github.com/Russel88/MicEco
+[submodule "metagMisc"]
+	path = metagMisc
+	url = https://github.com/vmikk/metagMisc
 [submodule "microViz"]
 	path = microViz
 	url = https://github.com/david-barnett/microViz
-[submodule "phyloseq-extended"]
-	path = phyloseq-extended
+[submodule "microbiomeMarker"]
+	path = microbiomeMarker
+	url = https://github.com/yiluheihei/microbiomeMarker
+[submodule "microbiomeutilities"]
+	path = microbiomeutilities
+	url = https://github.com/microsud/microbiomeutilities/tree/master
+[submodule "phyloseq.extended"]
+	path = phyloseq.extended
 	url = https://github.com/mahendra-mariadassou/phyloseq-extended
 [submodule "zAMPExplorer"]
 	path = zAMPExplorer
