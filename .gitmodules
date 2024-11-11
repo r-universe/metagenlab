@@ -5,9 +5,6 @@
 [submodule "MicEco"]
 	path = MicEco
 	url = https://github.com/Russel88/MicEco
-[submodule "metagMisc"]
-	path = metagMisc
-	url = https://github.com/vmikk/metagMisc
 [submodule "microViz"]
 	path = microViz
 	url = https://github.com/david-barnett/microViz
