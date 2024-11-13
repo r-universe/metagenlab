@@ -2,9 +2,24 @@
 	path = .registry
 	url = https://github.com/metagenlab/metagenlab.r-universe.dev
 	branch = HEAD
+[submodule "DirichletMultinomial"]
+	path = DirichletMultinomial
+	url = https://github.com/mtmorgan/DirichletMultinomial
+[submodule "InteractiveComplexHeatmap"]
+	path = InteractiveComplexHeatmap
+	url = https://github.com/jokergoo/InteractiveComplexHeatmap
 [submodule "MicEco"]
 	path = MicEco
 	url = https://github.com/Russel88/MicEco
+[submodule "MicrobiotaProcess"]
+	path = MicrobiotaProcess
+	url = https://github.com/YuLab-SMU/MicrobiotaProcess
+[submodule "mia"]
+	path = mia
+	url = https://github.com/microbiome/mia
+[submodule "miaViz"]
+	path = miaViz
+	url = https://github.com/microbiome/miaViz
 [submodule "microViz"]
 	path = microViz
 	url = https://github.com/david-barnett/microViz
