@@ -11,28 +11,27 @@
 [submodule "Maaslin2"]
 	path = Maaslin2
 	url = https://github.com/biobakery/Maaslin2
+	branch = master
 [submodule "MicEco"]
 	path = MicEco
 	url = https://github.com/Russel88/MicEco
+	branch = master
 [submodule "MicrobiotaProcess"]
 	path = MicrobiotaProcess
 	url = https://github.com/YuLab-SMU/MicrobiotaProcess
-[submodule "mia"]
-	path = mia
-	url = https://github.com/microbiome/mia
+	branch = master
 [submodule "miaTime"]
 	path = miaTime
 	url = https://github.com/microbiome/miaTime
 	registered = false
-[submodule "miaViz"]
-	path = miaViz
-	url = https://github.com/microbiome/miaViz
 [submodule "microViz"]
 	path = microViz
 	url = https://github.com/david-barnett/microViz
+	branch = main
 [submodule "microbiomeMarker"]
 	path = microbiomeMarker
 	url = https://github.com/yiluheihei/microbiomeMarker
+	branch = devel
 [submodule "microbiomeutilities"]
 	path = microbiomeutilities
 	url = https://github.com/microsud/microbiomeutilities
