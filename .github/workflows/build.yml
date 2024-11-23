@@ -19,5 +19,43 @@ jobs:
     name: Build and deploy
     uses: r-universe/workflows/.github/workflows/build.yml@v1
     with:
-      package: ${{inputs.package}}
+      package: ${{ inputs.package }}
+      dependencies: |
+        if (!requireNamespace("BiocManager", quietly = TRUE)) install.packages("BiocManager")
+        
+        # Install Bioconductor dependencies
+        BiocManager::install(c(
+          "phyloseq",
+          "microbiome",
+          "Biostrings",
+          "mia",
+          "miaViz",
+          "MicEco",
+          "ComplexHeatmap",
+          "MicrobiotaProcess",
+          "DirichletMultinomial",
+          "InteractiveComplexHeatmap",
+          "TreeSummarizedExperiment"
+        ), update = FALSE)
+
+        # Install CRAN dependencies
+        install.packages(c(
+          "microViz",
+          "ggplot2",
+          "dplyr",
+          "tidyr",
+          "cowplot",
+          "reshape2",
+          "vegan",
+          "gridExtra",
+          "plotly",
+          "eulerr",
+          "writexl",
+          "UpSetR"
+        ))
+
+        # Install GitHub dependencies if required
+        if (!requireNamespace("microbiomeutilities", quietly = TRUE)) {
+          devtools::install_github("microsud/microbiomeutilities")
+        }
     secrets: inherit
