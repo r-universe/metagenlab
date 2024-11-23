@@ -8,10 +8,6 @@
 [submodule "InteractiveComplexHeatmap"]
 	path = InteractiveComplexHeatmap
 	url = https://github.com/jokergoo/InteractiveComplexHeatmap
-[submodule "Maaslin2"]
-	path = Maaslin2
-	url = https://github.com/biobakery/Maaslin2
-	branch = master
 [submodule "MicEco"]
 	path = MicEco
 	url = https://github.com/Russel88/MicEco
@@ -24,13 +20,6 @@
 	path = microViz
 	url = https://github.com/david-barnett/microViz
 	branch = main
-[submodule "microbiomeMarker"]
-	path = microbiomeMarker
-	url = https://github.com/yiluheihei/microbiomeMarker
-	branch = devel
-[submodule "microbiomeutilities"]
-	path = microbiomeutilities
-	url = https://github.com/microsud/microbiomeutilities
 [submodule "zAMPExplorer"]
 	path = zAMPExplorer
 	url = https://github.com/metagenlab/zAMPExplorer
