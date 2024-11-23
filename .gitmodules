@@ -5,6 +5,7 @@
 [submodule "DirichletMultinomial"]
 	path = DirichletMultinomial
 	url = https://github.com/mtmorgan/DirichletMultinomial
+	branch = devel
 [submodule "InteractiveComplexHeatmap"]
 	path = InteractiveComplexHeatmap
 	url = https://github.com/jokergoo/InteractiveComplexHeatmap
