@@ -8,6 +8,9 @@
 [submodule "InteractiveComplexHeatmap"]
 	path = InteractiveComplexHeatmap
 	url = https://github.com/jokergoo/InteractiveComplexHeatmap
+[submodule "Maaslin2"]
+	path = Maaslin2
+	url = https://github.com/biobakery/Maaslin2
 [submodule "MicEco"]
 	path = MicEco
 	url = https://github.com/Russel88/MicEco
