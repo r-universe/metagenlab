@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/metagenlab/metagenlab.r-universe.dev
 	branch = HEAD
-[submodule "DirichletMultinomial"]
-	path = DirichletMultinomial
-	url = https://github.com/mtmorgan/DirichletMultinomial
 [submodule "InteractiveComplexHeatmap"]
 	path = InteractiveComplexHeatmap
 	url = https://github.com/jokergoo/InteractiveComplexHeatmap
