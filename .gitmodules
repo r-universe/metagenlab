@@ -25,6 +25,3 @@
 	path = microbiome
 	url = https://github.com/microbiome/microbiome
 	branch = master
-[submodule "zAMPExplorer"]
-	path = zAMPExplorer
-	url = https://github.com/metagenlab/zAMPExplorer
