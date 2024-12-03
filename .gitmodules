@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/metagenlab/metagenlab.r-universe.dev
 	branch = HEAD
+[submodule "microViz"]
+	path = microViz
+	url = https://github.com/david-barnett/microViz
+	branch = main
 [submodule "zAMPExplorer"]
 	path = zAMPExplorer
 	url = https://github.com/metagenlab/zAMPExplorer
