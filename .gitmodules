@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/metagenlab/metagenlab.r-universe.dev
 	branch = HEAD
+[submodule "Maaslin2"]
+	path = Maaslin2
+	url = https://github.com/biobakery/Maaslin2
+	branch = master
 [submodule "microViz"]
 	path = microViz
 	url = https://github.com/david-barnett/microViz
