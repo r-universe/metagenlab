@@ -10,6 +10,10 @@
 	path = Maaslin2
 	url = https://github.com/biobakery/Maaslin2
 	branch = master
+[submodule "metagenomeSeq"]
+	path = metagenomeSeq
+	url = https://github.com/HCBravoLab/metagenomeSeq
+	branch = master
 [submodule "pkgload"]
 	path = pkgload
 	url = https://github.com/r-lib/pkgload
