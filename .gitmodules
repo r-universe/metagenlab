@@ -2,6 +2,18 @@
 	path = .registry
 	url = https://github.com/metagenlab/metagenlab.r-universe.dev
 	branch = HEAD
+[submodule "DirichletMultinomial"]
+	path = DirichletMultinomial
+	url = https://github.com/mtmorgan/DirichletMultinomial
+	branch = devel
+[submodule "Maaslin2"]
+	path = Maaslin2
+	url = https://github.com/biobakery/Maaslin2
+	branch = master
+[submodule "pkgload"]
+	path = pkgload
+	url = https://github.com/r-lib/pkgload
+	branch = main
 [submodule "zAMPExplorer"]
 	path = zAMPExplorer
 	url = https://github.com/metagenlab/zAMPExplorer
