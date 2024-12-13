@@ -14,10 +14,6 @@
 	path = metagenomeSeq
 	url = https://github.com/HCBravoLab/metagenomeSeq
 	branch = master
-[submodule "pkgload"]
-	path = pkgload
-	url = https://github.com/r-lib/pkgload
-	branch = main
 [submodule "zAMPExplorer"]
 	path = zAMPExplorer
 	url = https://github.com/metagenlab/zAMPExplorer
