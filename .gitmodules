@@ -21,4 +21,4 @@
 [submodule "zAMPExplorer"]
 	path = zAMPExplorer
 	url = https://github.com/metagenlab/zAMPExplorer
-	branch = Devel
+	branch = latest
