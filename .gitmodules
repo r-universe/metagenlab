@@ -2,17 +2,9 @@
 	path = .registry
 	url = https://github.com/metagenlab/metagenlab.r-universe.dev
 	branch = HEAD
-[submodule "DirichletMultinomial"]
-	path = DirichletMultinomial
-	url = https://github.com/mtmorgan/DirichletMultinomial
-	branch = devel
 [submodule "Maaslin2"]
 	path = Maaslin2
 	url = https://github.com/biobakery/Maaslin2
-	branch = master
-[submodule "metagenomeSeq"]
-	path = metagenomeSeq
-	url = https://github.com/HCBravoLab/metagenomeSeq
 	branch = master
 [submodule "microViz"]
 	path = microViz
