@@ -2,10 +2,22 @@
 	path = .registry
 	url = https://github.com/metagenlab/metagenlab.r-universe.dev
 	branch = HEAD
+[submodule "ComplexHeatmap"]
+	path = ComplexHeatmap
+	url = https://github.com/jokergoo/ComplexHeatmap
+	branch = master
 [submodule "microViz"]
 	path = microViz
 	url = https://github.com/david-barnett/microviz
 	branch = main
+[submodule "microbiome"]
+	path = microbiome
+	url = https://github.com/microbiome/microbiome
+	branch = master
+[submodule "phyloseq"]
+	path = phyloseq
+	url = https://github.com/joey711/phyloseq
+	branch = master
 [submodule "zAMPExplorer"]
 	path = zAMPExplorer
 	url = https://github.com/metagenlab/zAMPExplorer
